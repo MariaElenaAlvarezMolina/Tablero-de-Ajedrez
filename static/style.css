@@ -1,0 +1,19 @@
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+.caja1 {
+    width: 55px;
+    height: 55px;
+    border: 2px solid black;
+}
+.caja2 {
+    width: 55px;
+    height: 55px;
+    border: 2px solid black;
+}
+table {
+    margin: 0 auto;
+    margin-top: 20px;
+}
